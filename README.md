@@ -10,10 +10,10 @@
 Category| Challenge| Points  | Solution
 -------- | -------- | -------- | -------- 
 Homework 1| [Task 1](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1.pdf)| - | [Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1/fn62263_d1_1_vc.cpp)
-Homework 1| [Task 1](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1.pdf)| - | [Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1/fn62263_d1_2_vc.cpp)
-Homework 1| [Task 1](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1.pdf)| - | [Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1/fn62263_d1_3_vc.cpp)
-Homework 1| [Task 1](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1.pdf)| - | [Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1/fn62263_d1_4_vc.cpp)
-Homework 1| [Task 1](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1.pdf)| - | [Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1/fn62263_d1_5_vc.cpp)
+Homework 1| [Task 2](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1.pdf)| - | [Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1/fn62263_d1_2_vc.cpp)
+Homework 1| [Task 3](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1.pdf)| - | [Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1/fn62263_d1_3_vc.cpp)
+Homework 1| [Task 4](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1.pdf)| - | [Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1/fn62263_d1_4_vc.cpp)
+Homework 1| [Task 5](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1.pdf)| - | [Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/Homeworks/Homework1/fn62263_d1_5_vc.cpp)
 
 
 
