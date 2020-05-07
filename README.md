@@ -1,9 +1,9 @@
 # C++ Programming 
 
 
-## HackerRank Challenges
+### HackerRank Challenges
 
-### Introduction
+#### Introduction
 
 Category| Challenge| Points | Difficulty | Solution
 -------- | -------- | -------- | -------- | --------
