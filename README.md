@@ -18,6 +18,7 @@ Introduction | [Arrays Introduction](https://www.hackerrank.com/challenges/array
 Introduction | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem)|30| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Introduction/Variable%20Sized%20Arrays.cpp)
 
 
+# -----------------------------------------------------------------------
 
 ## FMI TASKS
 
