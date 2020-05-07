@@ -1,6 +1,24 @@
 # C++ Programming 
 
 
+## HackerRank Challenges
+
+### Introduction
+
+Category| Challenge| Points | Difficulty | Solution
+-------- | -------- | -------- | -------- | --------
+Introduction | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem)|5| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Introduction/Say%20%22Hello%2C%20World!%22%20With%20C%2B%2B.cpp)
+Introduction | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)|5| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Introduction/Input%20and%20Output.cpp)
+Introduction | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)|10| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Introduction/Basic%20Data%20Types.cpp)
+Introduction | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem)|10| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Introduction/Conditional%20Statements.cpp)
+Introduction | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)|10| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Introduction/For%20Loop.cpp)
+Introduction | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)|10| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Introduction/Functions.cpp)
+Introduction | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)|10| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Introduction/Pointer.cpp)
+Introduction | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem)|10 | Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Introduction/Arrays%20Introduction.cpp)
+Introduction | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem)|30| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Introduction/Variable%20Sized%20Arrays.cpp)
+
+
+
 ## FMI TASKS
 
 ### Introduction to C++
