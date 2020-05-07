@@ -17,6 +17,12 @@ Introduction | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointe
 Introduction | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem)|10 | Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Introduction/Arrays%20Introduction.cpp)
 Introduction | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem)|30| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Introduction/Variable%20Sized%20Arrays.cpp)
 
+### Strings
+
+Category| Challenge| Points | Difficulty | Solution
+-------- | -------- | -------- | -------- | --------
+Strings | [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem)|10| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Strings/Strings.cpp)
+Strings | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem)|10| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Strings/StringStream.cpp)
 
 # -----------------------------------------------------------------------
 
