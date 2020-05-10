@@ -24,6 +24,17 @@ Category| Challenge| Points | Difficulty | Solution
 Strings | [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem)|10| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Strings/Strings.cpp)
 Strings | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem)|10| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Strings/StringStream.cpp)
 
+
+### Classes
+
+Category| Challenge| Points | Difficulty | Solution
+-------- | -------- | -------- | -------- | --------
+Classes | [Structs](https://www.hackerrank.com/challenges/c-tutorial-struct/problem)|10| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Classes/Structs.cpp)
+Classes | [Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem)|10| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Classes/Class.cpp)
+Classes | [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects/problem)|20| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Classes/Classes%20and%20Objects.cpp)
+Classes | [Box It!](https://www.hackerrank.com/challenges/box-it/problem)|30| Easy |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Classes/Box%20It!.cpp)
+Classes | [Inherited Code](https://www.hackerrank.com/challenges/inherited-code/problem)|30| Medium |[Solution](https://github.com/DaniAngelov/Cpp_Programming/blob/master/HackerRank%20Challenges/Classes/Inherited%20Code.cpp)
+
 # -----------------------------------------------------------------------
 
 ## FMI TASKS
